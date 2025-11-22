@@ -1,0 +1,10 @@
+{
+  "numeRestaurant": "La Maria",
+  "cotaTVA": 0.19,
+  "versiune": "1.0",
+  "configuratii": {
+    "moneda": "RON",
+    "limbaImplicita": "ro"
+  }
+}
+

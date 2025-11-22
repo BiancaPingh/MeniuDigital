@@ -1,0 +1,10 @@
+{
+  "numeRestaurant": "La Andrei",
+  "cotaTVA": 0.09,
+  "versiune": "1.0",
+  "configuratii": {
+    "moneda": "RON",
+    "limbaImplicita": "ro"
+  }
+}
+

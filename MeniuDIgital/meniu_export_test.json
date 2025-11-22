@@ -1,0 +1,37 @@
+{
+  "Băuturi Alcoolice": [
+    {
+      "volum": 750,
+      "alcoolic": true,
+      "nume": "Vin rosu",
+      "pret": 45.0
+    }
+  ],
+  "Desert": [
+    {
+      "gramaj": 200,
+      "categorie": "DESERT",
+      "vegetarian": true,
+      "nume": "Tarta de legume",
+      "pret": 28.0
+    }
+  ],
+  "Aperitive": [
+    {
+      "gramaj": 250,
+      "categorie": "APERITIVE",
+      "vegetarian": false,
+      "nume": "Salata Caesar",
+      "pret": 35.0
+    }
+  ],
+  "Băuturi Răcoritoare": [
+    {
+      "volum": 330,
+      "alcoolic": false,
+      "nume": "Cola",
+      "pret": 8.0
+    }
+  ],
+  "Fel Principal": []
+}
